@@ -27,6 +27,8 @@ def rankine_naar_celsius(rankine):
     resultaat = (rankine - 491.67) * 5 / 9
     return resultaat
 
+def omreken(event):
+    
 # Keuzemenu - def berekenen 
 print("Wat wil je omrekenen?")
 print("1 - Celsius naar Fahrenheit")
